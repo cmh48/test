@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="5bd6a181-da5f-4e4a-9b00-80c0336241ea" name="test" url="http://afs11.njit.edu/~cmh48/test">
+      <webServer id="5bd6a181-da5f-4e4a-9b00-80c0336241ea" name="test" url="http://web.njit.edu/~cmh48/test">
         <fileTransfer host="afs11.njit.edu" port="22" rootFolder="/afs/cad.njit.edu/u/c/m/cmh48/public_html/test" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
